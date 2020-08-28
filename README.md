@@ -7,3 +7,5 @@ Primer repositorio (projecto) de Github para aprender el uso de Git
  1. Optimizacion
  2. Simulacion Montecarlo
  3. Ecuaciones Diferenciales
+
+Agrego esta linea para hcer una edición al archivo
